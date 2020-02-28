@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter.ttk import Progressbar
 from tkinter import filedialog
-#from Main_Logic import *
+from Main_Logic import *
 from tkinter import messagebox
 
 
