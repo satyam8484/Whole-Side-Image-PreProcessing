@@ -47,9 +47,7 @@ Programming Language: Python 3.7
 
 ForntEnd : tkinter
 
-In Linux
-
-Run The Following Linux Commands
+# In Linux Run The Following Linux Commands
 
 sudo apt-get install python3-tk
 
