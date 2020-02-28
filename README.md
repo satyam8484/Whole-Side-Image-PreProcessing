@@ -46,17 +46,11 @@ In Linux
 # Run The Following Linux Commands
 
 sudo apt-get install python3-tk
-
 sudo pip3 install large_image
-
 sudo pip3 install openslide-python
-
 sudo pip3 install pandas
-
 sudo pip3 install matplotlib
-
 sudo pip3 install scikit-image
-
 sudo pip3 install histomicstk
 
 Check installation :-
