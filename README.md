@@ -42,6 +42,7 @@ In Step 3, 5-bin histogram and five distribution statistics (i.e. mean, standard
 Installation:-
 
 OS Used : Linux
+
 Programming Language: Python 3.7
 ForntEnd : tkinter
 
