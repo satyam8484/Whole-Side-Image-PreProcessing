@@ -29,6 +29,7 @@ Refer This Image :-
 
 Analysis of Nuclear Morphology from Archived Histopathology Images
 As outlined in  using our previously developed image analysis algorithms and pipeline  automated image analysis was carried out and ten types of cell-level features from tissue images were extracted following the three main steps: 1) nuclei segmentation, 2) cell-level feature measurement, and 3) aggregation of cell-level measurements into patient-level statistics.
+
 In Step 1, the nuclei of all cells in the image are automatically segmented based on our previous workflow .
 
 In Step 2, ten types of cell-level features were extracted, including seven types of morphological and spatial traits and three types of pixel traits in the RGB color space. The seven types of morphological and spatial features of cell nuclei were: major axis length (Major_Axis), minor axis length (Minor_Axis), the ratio of major to minor axis length (Ratio), nuclear area (Area), mean distance to neighboring cells (Mean_Distance), maximum distance to neighboring cells (Max_Distance), and minimum distance to neighboring cells (Min_Distance). The seven types of morphological and spatial features of cell nuclei can be summarized as nucleic area (Area), nucleic shape (Major_Axis, Minor_Axis, and Ratio), and cell density (Mean_Distance, Max_Distance and Min_Distance).
