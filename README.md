@@ -61,9 +61,8 @@ sudo pip3 install histomicstk
 
 Check installation :-
 
-
-
-
+Refer This Image :
+![alt text](https://github.com/satyam8484/Whole-Side-Image-PreProcessing/blob/master/Fig_2.png)
 
 
 
