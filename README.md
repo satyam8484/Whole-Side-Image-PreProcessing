@@ -15,9 +15,9 @@ We modified two python scripts that were a part of the HistomicsTK package accor
 
 
 
+Refer This Image :-
 
-
-
+https://github.com/satyam8484/Whole-Side-Image-PreProcessing/blob/master/Fig_1.jpg
 
 
 
