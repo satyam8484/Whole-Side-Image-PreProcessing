@@ -1,7 +1,7 @@
 
 Run :-
 
-python ui1.py
+python3 ui1.py
 
 then Browse Folder
 Which Contain All .svs files, Which we had Downloaded 
