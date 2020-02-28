@@ -1,0 +1,5 @@
+RUN FOLLWING COMMAND
+
+
+/PATH/TO/gdc-client/APP download -m gdc_manifest.2019-10-17_A.txt
+
